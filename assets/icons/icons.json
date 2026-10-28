@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/eleni-fyta-psychologos-logo.svg"
+ },
+ "source_md5": "6d89a08b05112dd70ff987b512d279d2",
+ "version": "147a075c",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "6db9f44e81031e389cf5bfc51b35bdde"
+ ],
+ "made": "2026-10-28"
+}
